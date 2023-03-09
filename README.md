@@ -87,4 +87,4 @@ python3 -m pip install tox && tox
 
 ## License
 
-Copyright (C) 2023 Artyom Vancyan. [Apache 2.0](LICENSE)
+Copyright (C) 2023 Artyom Vancyan. [GPLv3](https://github.com/pysnippet/thumbnails/blob/master/LICENSE)
