@@ -5,6 +5,7 @@
 [![Tests Windows](https://img.shields.io/circleci/build/gh/pysnippet/thumbnails?token=c63e2b94c69393ab3e47a0f20de802fe6265ecf4&label=Tests%20Windows&logo=circleci&logoColor=959da5&labelColor=3e464f)](https://app.circleci.com/pipelines/github/pysnippet/thumbnails)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ab5414af4c9546fe97ad64365e2a66f0)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pysnippet/thumbnails&amp;utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/pypi/l/thumbnails.svg)](https://github.com/pysnippet/thumbnails/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArtyomVancyan%2Fthumbnails.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FArtyomVancyan%2Fthumbnails?ref=badge_shield)
 
 This tool stands out for its unparalleled optimization for lightning-fast thumbnail generation. By utilizing minimal
 resources, you can generate more in less time. And with a user-friendly CLI and a convenient Python API, this tool is
@@ -88,3 +89,6 @@ python3 -m pip install tox && tox
 ## License
 
 Copyright (C) 2023 Artyom Vancyan. [GPLv3](https://github.com/pysnippet/thumbnails/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArtyomVancyan%2Fthumbnails.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FArtyomVancyan%2Fthumbnails?ref=badge_large)
